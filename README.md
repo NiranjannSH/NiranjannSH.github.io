@@ -22,9 +22,16 @@
 
 - **IBM Data Analysis with Python Certification**
   - *Year: 2023*
+  ![IBM Data Analysis with Python Certification](https://github.com/NiranjannSH/NiranjannSH.github.io/blob/main/dataanalysiswithpython.png)
 
 - **IBM Machine Learning with Python Certification**
   - *Year: 2023*
+  ![IBM Machine Learning with Python Certification](https://github.com/NiranjannSH/NiranjannSH.github.io/blob/main/ML.png)
+
+- **IBM Deep Learning with TensorFlow**
+  - *Year: 2023*
+  ![IBM Deep Learning with TensorFlow Certification](https://github.com/NiranjannSH/NiranjannSH.github.io/blob/main/Tensorflow.png)
+
 
 ---
 
@@ -65,5 +72,3 @@
 
 - **Tools and Techniques Used:**
   *Python, Deep Learning, Image Processing*
-
----
